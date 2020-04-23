@@ -1,0 +1,73 @@
+# Fly love the world
+
+
+## mindiworldnews export by tool
+
+[2020-01-25 16:55] ID=1 mindiworldnews -1001493034200: None
+[2020-01-25 16:55] ID=2 mindiworldnews -1001493034200: None
+[2020-01-26 13:41] ID=3 mindiworldnews -1001493034200: 測試測試～
+[2020-01-30 09:24] ID=4 mindiworldnews -1001493034200: 敏迪選讀Telegram開張!!!\nDownload Link || https://ift.tt/2UbZu5J
+[2020-01-30 15:44] ID=5 mindiworldnews -1001493034200: 1/31 英國終於脫歐了，但介於有脫於沒脫之間\nDownload Link || https://ift.tt/2ObAZSh
+[2020-02-03 01:47] ID=6 mindiworldnews -1001493034200: 2/3 中國湖南爆H5N1禽流感，波蘭則有H5N8，它們一樣嗎？\nDownload Link || https://ift.tt/3b4tKp3
+[2020-02-04 00:16] ID=7 mindiworldnews -1001493034200: 2/4 談武漢肺炎WHO的反覆，和PHEIC的影響（附微信微博截圖）\nDownload Link || https://ift.tt/2GPQjjo
+[2020-02-04 23:42] ID=8 mindiworldnews -1001493034200: 2/5 以色列和巴勒斯坦的恩怨情仇\nDownload Link || https://ift.tt/2RX3pSk
+[2020-02-05 23:30] ID=9 mindiworldnews -1001493034200: 2/6 川普的中東和平計畫真的很和平嗎？\nDownload Link || https://ift.tt/3bdcbTW
+[2020-02-06 23:30] ID=10 mindiworldnews -1001493034200: 2/7 川普彈劾案結果、議長裴洛西撕川普稿、民主黨初選亂七八糟\nDownload Link || https://ift.tt/39j7qqh
+[2020-02-09 23:30] ID=11 mindiworldnews -1001493034200: 2/10 泰國發生大規模槍擊案，而敏迪的朋友就在現場\nDownload Link || https://ift.tt/3boiF2h
+[2020-02-11 00:27] ID=12 mindiworldnews -1001493034200: 2/11 美國國務卿對各州長說，不要單獨跟中國打交道\nDownload Link || https://ift.tt/2vkVgys
+[2020-02-12 00:43] ID=13 mindiworldnews -1001493034200: 2/12 武漢肺炎最新研究報告、中國到底要不要開工？\nDownload Link || https://ift.tt/31NjXzF
+[2020-02-12 01:03] ID=14 mindiworldnews -1001493034200: 剛到的人可以點右下角進聊天室，跟我說一下你閃退前有沒有更新唷。（我平常也會出沒聊天室）
+[2020-02-13 00:15] ID=15 mindiworldnews -1001493034200: 2/13 德國剛上演一齣「被當選總理」劇碼\nDownload Link || https://ift.tt/31M7vAc
+[2020-02-13 23:30] ID=16 mindiworldnews -1001493034200: 2/14 梅克爾繼承人AKK不幹了、MWC停辦造成多大損失？\nDownload Link || https://ift.tt/2wfUaEB
+[2020-02-14 23:30] ID=17 mindiworldnews -1001493034200: 2/15 你知道現在東非有蝗蟲大軍嗎？那你知道它們已經飛到印度了嗎？\nDownload Link || https://ift.tt/2UWhlOr
+[2020-02-16 23:30] ID=18 mindiworldnews -1001493034200: 2/17 柬埔寨接納的威士特丹號郵輪驗出一名確診，洪森還能面不改色挺中國嗎\nDownload Link || https://ift.tt/2uIfrqa
+[2020-02-17 23:30] ID=19 mindiworldnews -1001493034200: 2/18 德國慕尼黑安全會議辯論大賽，勝者是...\nDownload Link || https://ift.tt/2SCytXO
+[2020-02-18 23:30] ID=20 mindiworldnews -1001493034200: 2/19 中國和梵蒂岡進行高層級會面了、中國解除美國商品關稅，且開放美禽進口\nDownload Link || https://ift.tt/2SChzJ4
+[2020-02-20 00:02] ID=21 mindiworldnews -1001493034200: 2/20 南韓最危險的身份——前總統\nDownload Link || https://ift.tt/2SGQSCS
+[2020-02-20 23:30] ID=22 mindiworldnews -1001493034200: 2/21 中美開闢新戰場：新聞媒體業和「外國代理人」法案\nDownload Link || https://ift.tt/2Pdv2Vs
+[2020-02-23 23:30] ID=23 mindiworldnews -1001493034200: 2/24 泰國第三大黨被裁定解散，這個國家的民主還好嗎？\nDownload Link || https://ift.tt/39V5OmT
+[2020-02-24 14:04] ID=24 mindiworldnews -1001493034200: 在Instagram上發了個限動，想投票的可以去那邊玩玩（不過現在已經有個選項壓倒性勝利惹...）
+[2020-02-24 23:30] ID=25 mindiworldnews -1001493034200: 2/25 馬來西亞政治宮鬥劇：馬哈迪突然退位，背後有什麼盤算？\nDownload Link || https://ift.tt/38Uohjq
+[2020-02-25 23:30] ID=26 mindiworldnews -1001493034200: 2/26 川普如演唱會巨星的印度之旅\nDownload Link || https://ift.tt/2HUeoGD
+[2020-02-26 23:30] ID=27 mindiworldnews -1001493034200: 2/27 新型冠狀病毒全球疫情整理、敏迪私藏預告\nDownload Link || https://ift.tt/2VpmU8k
+[2020-03-01 23:30] ID=28 mindiworldnews -1001493034200: 3/2 上週末新聞彙整：美股慘跌、馬來西亞新首相是誰、敘土之戰即將爆發\nDownload Link || https://ift.tt/2TxA68w
+[2020-03-02 23:30] ID=29 mindiworldnews -1001493034200: 3/3 美國和塔利班的和解之路\nDownload Link || https://ift.tt/32IKbDT
+[2020-03-04 03:21] ID=30 mindiworldnews -1001493034200: 3/4 美國聯準會宣布降息兩碼，全世界經濟陷入悲觀\nDownload Link || https://ift.tt/3cDiG3g
+[2020-03-04 23:30] ID=31 mindiworldnews -1001493034200: 3/5 中東正處於開戰邊緣，土敘俄三國為什麼會打成一團\nDownload Link || https://ift.tt/2TqzOSi
+[2020-03-05 23:30] ID=32 mindiworldnews -1001493034200: 3/6 馬來西亞宮鬥劇第二集：誰是新首相？\nDownload Link || https://ift.tt/3axh3Ch
+[2020-03-08 23:30] ID=33 mindiworldnews -1001493034200: 3/9 沙烏地王室也有宮鬥劇！兩個重量級親王被逮捕，王儲薩爾曼穩了。\nDownload Link || https://ift.tt/2TNWQkR
+[2020-03-09 23:30] ID=34 mindiworldnews -1001493034200: 3/10 石油價格戰開打了，全球經濟到底要多慘？\nDownload Link || https://ift.tt/2TQ0w5H
+[2020-03-10 03:49] ID=35 mindiworldnews -1001493034200: 
+[2020-03-10 03:51] ID=36 RE_ID=35 mindiworldnews -1001493034200: None
+[2020-03-11 00:21] ID=37 mindiworldnews -1001493034200: 3/11 法國該不該給義大利口罩？ 疫情放大鏡下的歐洲一體化思辨\nDownload Link || https://ift.tt/2Q3ZORe
+[2020-03-11 23:30] ID=38 mindiworldnews -1001493034200: 3/12 普丁將成為俄羅斯的「永續總統」\nDownload Link || https://ift.tt/3aQGUp4
+[2020-03-12 23:30] ID=39 mindiworldnews -1001493034200: 3/13 十四世紀的黑死病改變了世界什麼\nDownload Link || https://ift.tt/2U4s5rR
+[2020-03-15 23:30] ID=40 mindiworldnews -1001493034200: 3/16 全球疫情整理、英國美國防疫政策比一比\nDownload Link || https://ift.tt/2voCpCZ
+[2020-03-16 18:21] ID=41 mindiworldnews -1001493034200: 3/17 聯準會降4碼什麼概念？ 用2008金融海嘯比喻給你看\nDownload Link || https://ift.tt/2QgYYRa
+[2020-03-18 00:21] ID=42 mindiworldnews -1001493034200: 3/18 由外國媒體告訴你，台灣為何成為全球防疫標竿\nDownload Link || https://ift.tt/2xPHTaR
+[2020-03-18 23:30] ID=43 mindiworldnews -1001493034200: 3/19 中美媒體戰又開打，川普回應為什麼要講中國病毒\nDownload Link || https://ift.tt/3dbaNCs
+[2020-03-19 23:30] ID=44 mindiworldnews -1001493034200: 3/20 全球輪流丟出紓困方案，看看各國怎麼解救經濟\nDownload Link || https://ift.tt/2U7Z4x3
+[2020-03-22 23:30] ID=45 mindiworldnews -1001493034200: 3/23 疫情下的政治角力：伊朗、美國、中國\nDownload Link || https://ift.tt/2WAdmbd
+[2020-03-23 23:00] ID=46 mindiworldnews -1001493034200: 3/24 東京奧運延期會怎樣？\nDownload Link || https://ift.tt/2UJC0DV
+[2020-03-24 23:00] ID=47 mindiworldnews -1001493034200: 3/25 韓國N號房，一間泯滅人性的聊天室\nDownload Link || https://ift.tt/33NtjMH
+[2020-03-25 23:00] ID=48 mindiworldnews -1001493034200: 3/26 最近川普和習近平分別打電話給哪些國家？\nDownload Link || https://ift.tt/2UigHdh
+[2020-03-26 23:00] ID=49 mindiworldnews -1001493034200: 3/27 美國上週有328萬人申請了她人生第一次的失業救濟金\nDownload Link || https://ift.tt/3bqr9Fx
+[2020-03-29 23:00] ID=50 mindiworldnews -1001493034200: 3/30 中國在國際組織間的佈局（上）\nDownload Link || https://ift.tt/2UpkOnY
+[2020-03-30 23:00] ID=51 mindiworldnews -1001493034200: 3/31 中國在國際組織間的佈局（下）\nDownload Link || https://ift.tt/39B76mB
+[2020-03-31 23:00] ID=52 mindiworldnews -1001493034200: 4/1 《委內瑞拉兩個太陽》新進展，美國起訴馬杜羅\nDownload Link || https://ift.tt/3dIUOLT
+[2020-04-05 23:00] ID=53 mindiworldnews -1001493034200: 4/5 全球疫情整理、北馬其頓如願以償加入北約\nDownload Link || https://ift.tt/2UM2vcI
+[2020-04-06 23:00] ID=54 mindiworldnews -1001493034200: 4/7 英國女王電視廣播、日本可能發布緊急事態通知、石油戰打到哪\nDownload Link || https://ift.tt/2RhVvlN
+[2020-04-07 23:30] ID=55 mindiworldnews -1001493034200: 4/8 「我們輪流當總理吧！」以色列政壇太趣味\nDownload Link || https://ift.tt/3dY83Zv
+[2020-04-08 23:00] ID=56 mindiworldnews -1001493034200: 4/9 川普揚言不捐錢給WHO，同時間中國取得國際人權調查員的遴選權力\nDownload Link || https://ift.tt/2JRIlbe
+[2020-04-10 00:46] ID=57 mindiworldnews -1001493034200: 4/10 瑞幸咖啡，中國式的資本遊戲\nDownload Link || https://ift.tt/34qhAnC
+[2020-04-12 23:00] ID=58 mindiworldnews -1001493034200: 4/13 葉門內戰停火兩週，人民盼的到永久停火嗎\nDownload Link || https://ift.tt/2JWPbfy
+[2020-04-14 00:21] ID=59 mindiworldnews -1001493034200: 4/14 史上最大石油減產協議達成！協議過程像鄉土劇，又像偶像劇\nDownload Link || https://ift.tt/3ck0qLj
+[2020-04-15 03:21] ID=60 mindiworldnews -1001493034200: 4/15 敏迪如何看台灣的口罩外交\nDownload Link || https://ift.tt/2REB3vD
+[2020-04-15 23:00] ID=61 mindiworldnews -1001493034200: 4/16 川普凍結WHO資助，背後還有什麼值得觀察的？\nDownload Link || https://ift.tt/3agam70
+[2020-04-16 18:04] ID=62 mindiworldnews -1001493034200: 4/17 疫情下的韓國大選，文在寅未來該怎麼做？\nDownload Link || https://ift.tt/2RJtOm8
+[2020-04-17 02:34] ID=63 mindiworldnews -1001493034200: 
+[2020-04-17 02:35] ID=64 mindiworldnews -1001493034200: 剛剛看到工研院的研究報告，內容非常紮實，想要知道疫情對台灣電子產業有多少影響，可以參考看看這份文件。或許也對投資有幫助。
+[2020-04-20 00:21] ID=65 mindiworldnews -1001493034200: 4/20 香港警察逮補15名民主派名人，中聯辦重新定義「一國兩制」\nDownload Link || https://ift.tt/2VmMwSI
+[2020-04-20 23:00] ID=66 mindiworldnews -1001493034200: 4/21 中國和越南的「南海之戰」\nDownload Link || https://ift.tt/2KmNnNe
+[2020-04-21 16:49] ID=67 mindiworldnews -1001493034200: 4/21 石油價格變負值？你冷靜，不是這樣算的\nDownload Link || https://ift.tt/2RYyncB
+[2020-04-22 23:00] ID=68 mindiworldnews -1001493034200: 4/23 金正恩健康狀況到底如何\nDownload Link || https://ift.tt/2XWMV01
