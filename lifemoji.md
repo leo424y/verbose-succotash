@@ -1,5 +1,10 @@
 # fitmoji
 
+## fitness
+
+🙌 pull ups
+
+
 emoji for workout life
 
 :art:
